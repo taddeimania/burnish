@@ -13,5 +13,5 @@ Linux `~/.vst3`), then rescan plug-ins in Live. The guide (PDF) in the
 download tours the panel, walks you through a first session and covers
 every module.
 
-**macOS:** the plugin isn't notarised. If macOS refuses to load it, run
-`xattr -dr com.apple.quarantine ~/Library/Audio/Plug-Ins/VST3/Burnish.vst3`.
+**macOS:** the plugin is signed and notarised by Apple, so your DAW loads it
+straight away.
