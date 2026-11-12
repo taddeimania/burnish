@@ -5,6 +5,10 @@ loudness metering, gain-matched bypass and dither. ASSIST listens to the
 song and builds a chain toward a genre target or a reference track. Put it
 last on the master channel.
 
+## New in 0.1.1
+
+- The macOS build is signed and notarised by Apple, so your DAW loads it straight away, with no quarantine command first.
+
 ## Install
 
 Unzip and copy `Burnish.vst3` into your VST3 folder (macOS
